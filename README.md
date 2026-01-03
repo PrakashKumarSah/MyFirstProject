@@ -1,4 +1,4 @@
 # MyFirstProject
 This is My First Git repository 
 <br>
-Author - Prakash Star
+Author - Prakash Kumar Sah
